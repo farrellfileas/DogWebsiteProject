@@ -1,0 +1,53 @@
+body {
+	background-color: #BDB76B;
+}
+
+#main {
+	width: 80%;
+	margin: auto;
+	background-color: #FFF8DC;
+	padding: 20px 0;
+}
+
+#main h1 {
+	text-align: center;
+}
+
+#mentos {
+	width: 40%;
+	height: auto;
+	margin: auto;
+	display: block;
+	border-radius: 50%;
+}
+
+#main h2 {
+	text-align: center;
+}
+.dog-selector {
+	display: block;
+	margin: 20px auto;
+	font-size: 30px;
+	text-align: center;
+}
+
+select option {
+	text-transform: capitalize;
+}
+
+.hidden {
+	display: none;
+}
+
+.dog-img {;
+	width: 40%;
+	height: auto;
+	border-radius: 20%;
+	margin: auto;
+	display: block;
+}
+
+button {
+	display: block;
+	margin: 20px auto;
+}
